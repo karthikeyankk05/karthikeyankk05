@@ -68,7 +68,7 @@
 
 ## 📫 Let's Connect
 
-- 📧 Email: mailto:karthikeyankk0059@gmail.com
+- 📧 Email: karthikeyankk0059@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/karthikeyan-s-956227217
 - 💻 GitHub: https://github.com/karthikeyankk05
 
