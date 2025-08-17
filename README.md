@@ -7,12 +7,14 @@
 
 ## 🔧 Skills & Technologies
 
-- **Languages:** Dart, Python, Java, C++
-- **Mobile:** Flutter, Firebase, ML Kit, Google APIs
-- **AI/ML:** TensorFlow, OpenCV, YOLOv8, Face & Emotion Recognition
+- **Programming Languages:** Python, Java, Dart, C++
+- **Technologies & Tools:** Flutter, OpenCV, TensorFlow, Firebase, IoT, Google APIs, ML Kit
+- **AI/ML:** TensorFlow, OpenCV, YOLOv8, Face Recognition, Emotion Detection, NLP, LLM
 - **Web:** HTML, CSS, JavaScript, Flask
 - **Tools:** Git, GitHub, SQLite, REST APIs
-- **Soft Skills:** Teamwork, Problem Solving, Adaptability
+- **Prompt Engineering & AI Tools:** ChatGPT , GitHub Copilot , Perplexity – applied for coding,
+debugging, research, and AI-driven development
+- **Soft Skills:** Teamwork, Problem Solving, Adaptability, Time Management
 
 ---
 
